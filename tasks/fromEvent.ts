@@ -1,3 +1,1 @@
-export function fromEvent() {
-  
-}
+document.body.innerHTML = '<h1>Привет Сергей 😱</h1>';
